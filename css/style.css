@@ -1,0 +1,15 @@
+
+.carousel-item{
+    background-size:cover;
+    height: 970px;
+}
+  
+.container{
+    flex-wrap: wrap;
+    
+}
+
+.enquadro {
+    height: 286px;
+}
+
